@@ -1,0 +1,46 @@
+
+tools:
+  reels:
+    name: "ReelForge Pro"
+    url: "https://reelforgepro.youragency.app"
+    desc: "AI reels (script + TTS + stock + brand template)."
+  captions:
+    name: "Captions & Hashtags"
+    url: "https://captions.youragency.app"
+    desc: "Bilingual captions + 12–18 hashtags."
+  seo:
+    name: "SEO Optimizer"
+    url: "https://seo.youragency.app"
+    desc: "Titles, meta, H1/H2, keywords, JSON‑LD."
+  broadcast:
+    name: "WhatsApp Broadcast (Cloud API)"
+    url: "https://broadcast.youragency.app"
+    desc: "Template-based messaging with throttling."
+  crm:
+    name: "CRM Lead Inbox"
+    url: "https://crm.youragency.app"
+    desc: "Form-to-WhatsApp welcome + lead store."
+  adbuilder:
+    name: "Meta Ad Builder"
+    url: "https://adbuilder.youragency.app"
+    desc: "Ad copy + creative brief (FB/IG)."
+  review:
+    name: "Review Booster"
+    url: "https://review.youragency.app"
+    desc: "Review requests + public reply templates."
+  upsell:
+    name: "Upsell Engine"
+    url: "https://upsell.youragency.app"
+    desc: "Combos and WhatsApp pitch scripts."
+  invoice:
+    name: "Quote & Invoice"
+    url: "https://invoice.youragency.app"
+    desc: "Generate quick quotes/invoices."
+  tracking:
+    name: "Tracking Sync (Shopify)"
+    url: "https://tracking.youragency.app"
+    desc: "AfterShip webhook to Shopify events."
+  salesbot:
+    name: "Sales Agent Chatbot"
+    url: "https://salesbot.youragency.app"
+    desc: "Lead qualify + order capture on WA/FB."

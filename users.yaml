@@ -1,0 +1,21 @@
+
+credentials:
+  users:
+    - username: "owner"
+      name: "Owner Admin"
+      password: "$2b$12$8m4sgM1z9C9nHMgu2nWZau1bBv8cDLnq7CsyqC3eXo5oYFz7t7r2u"
+      allowed_tools: ["reels","seo","broadcast","crm","adbuilder","review","upsell","invoice","tracking","salesbot","captions"]
+      active: true
+      expires_at: "2099-12-31"
+    - username: "demo_brand"
+      name: "Demo Brand"
+      password: "$2b$12$8m4sgM1z9C9nHMgu2nWZau1bBv8cDLnq7CsyqC3eXo5oYFz7t7r2u"
+      package: "Business"
+      active: true
+      expires_at: "2025-12-31"
+    - username: "late_payer"
+      name: "Late Payer Co"
+      password: "$2b$12$8m4sgM1z9C9nHMgu2nWZau1bBv8cDLnq7CsyqC3eXo5oYFz7t7r2u"
+      package: "Starter"
+      active: false
+      expires_at: "2024-12-31"
